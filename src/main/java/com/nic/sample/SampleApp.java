@@ -23,7 +23,7 @@ public class SampleApp extends HttpServlet {
     out.println("<script src=\"js/yama.js\"></script>");
     out.println("</head>");
     out.println("<div class=\"bg-slider\">");
-    out.println("  <h1 class=\"bg-slider__title\">Sample Web Application</h1>");
+    out.println("  <h1 class=\"bg-slider__title\">NI+C Sample Web Application</h1>");
     out.println("</div>");
    }
 }
